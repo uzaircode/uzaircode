@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nik Uzair</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 - 🔭 I’m currently working on **Quiz App project in flutter**
 
