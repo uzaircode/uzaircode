@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nik Uzair</h1>
+<h1 align="center">Hi👋, I'm Nik Uzair</h1>
 
 - 🔭 I’m currently working on **Quiz App project in flutter**
 
