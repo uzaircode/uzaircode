@@ -20,8 +20,6 @@
 
 <a href="https://open.spotify.com/user/6ilugdiepdqxut4ak4nqu1z7i">
   <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=uzaircode&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
-
 </a>
 
 
