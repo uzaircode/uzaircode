@@ -28,6 +28,3 @@
 </div>
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=6ilugdiepdqxut4ak4nqu1z7i)](https://open.spotify.com/user/6ilugdiepdqxut4ak4nqu1z7i)
-
-
